@@ -1,2 +1,5 @@
 # arquitetura-css
-curso de arquitetura da Alura. 
+
+> Status: Em andamento
+
+Curso de arquitetura da Alura. 
