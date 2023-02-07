@@ -1,4 +1,2 @@
-# Curso Alura HTML
-
-> Status: Completo.
-
+# arquitetura-css
+curso de arquitetura da Alura. 
